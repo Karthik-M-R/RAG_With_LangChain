@@ -6,3 +6,4 @@ pymupdf
 langchain-text-splitters
 faiss-cpu
 chromadb
+sentence_transformers
